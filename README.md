@@ -45,7 +45,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mianafzaal/Haruno-Botz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlyaaXd/Haruno-Botz)
 
 
 
@@ -67,9 +67,9 @@ Simple WhatsApp Bot
 # THANKS TO 
  [`Baileys`](https://github.com/adiwajshing/Baileys)
 
- [`AlyaXzy`](https://wa.me/6289505165400)
+ [`AlyaXzy`](https://wa.me/923430436852)
 
- [`BOTCAHX`](https://wa.me/6282221792667)
+ [`BOTCAHX`](https://wa.me/923430436852)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
