@@ -1,10 +1,10 @@
 // Thanks For Allah
-// AlyaaXzy
+// 𝑴𝑰𝑨𝑵
 // BOTCAHX
 
 
 let fs = require('fs')
-global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // Letakan nomor kamu disini
+global.owner = ['923430436852', '923430436852','923430436852', '923430436852', '923430436852'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey nya disini
   'https://pencarikode.xyz': 'APIKEY',
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'nyyxz-bot',
+  'https://api.zeks.xyz': '𝑴𝑰𝑨𝑵-bot',
   'https://api.lolhuman.xyz': 'ed6c4f2c72b6f92f7d201464',
   'https://api.vhtear.com': 'sayahafiz',
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
@@ -41,13 +41,13 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Exc'
-global.author = 'NyyXz'
+global.packname = '𝑴𝑰𝑨𝑵'
+global.author = '𝑴𝑰𝑨𝑵'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© R-Txzy' //change the watermark 
+global.watermark = '© 𝑴𝑰𝑨𝑵' //change the watermark 
 global.image = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'
 
